@@ -65,4 +65,5 @@
 
 En el diagrama de arquitectura incluimos todos los elementos elegidos para la entrega, además del NAT Gateway. Lo pusimos en la arquitectura más allá que no sea parte de la entrega para que tenga sentido la creación de las sub redes públicas. 
 
-<img src=”Arquitectura.JPG”>
+![Arquitectura drawio (1)](https://github.com/itba-cloud/2023Q1-G5/assets/133616182/e57061a3-7b85-4cab-a20b-911f08ca884f)
+
